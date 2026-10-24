@@ -1,0 +1,6 @@
+{
+  "name": "Iris ML Classifier Bench",
+  "description": "Empirical comparison of Logistic Regression, Decision Tree, and Random Forest on the Fisher Iris dataset with identical train/test splits, decision boundaries, metrics, and executable Python code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
